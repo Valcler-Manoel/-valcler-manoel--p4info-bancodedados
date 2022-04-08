@@ -1,0 +1,6 @@
+A partir do Modelo Entidade Relacionamento constante na figura anexa fazer as seguintes atividades:
+1) Criar um Banco de Dados SQLite usando o DB Browser;
+2) Criar as tabelas e seus respectivos atributos, chaves primarias e chaves estrangeiras quando necessário;
+3)  Na criação da chave primaria usar a nomenclatura usada nas aulas (ID);
+4) Na criação das chaves estrangeiras usar a nomenclatura usada nas aulas (TABELAREFERENCIADA_ID). Exemplo: VENDEDOR_ID é chave estrangeira em TB_NOTAFISCAL pois a nota fiscal está associada a um vendedor.
+5) A atividade deverá ser evidenciada no Google Classroom com os prints do SQL de criação (CREATE) e a print da figura do DB Browser com as tabelas e todos os seus atributos.	
