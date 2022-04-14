@@ -1,1 +1,8 @@
-Testepresença
+Pesquise na bibliografia disponibilizada os seguintes conceitos:
+1) Dado: Valores fisicamente registrados em um ou ou mais banco de dados.
+
+2) Informação: Se refere ao significado dos valores dos dados para um usuário.
+
+3) Arquivo Convencional: É uma coleção de registros de um mesmo tipo. Os sistemas de banco de dados se baseia em arquivos e expandem suas definições.
+
+4) Banco de Dados: É um conjunto de dados integrados que tem por objetivo atender a uma comunidade de usuário.

@@ -1,0 +1,14 @@
+Pesquise na bibliografia disponível. Defina o que é:
+1) Sistema Isolado:
+
+	Caso uma das funções forem informatizadas de forma sepadara, sem condiderar a informatização das demais funções anteriores, pode ocorrer que, para cada uma
+das funções, seja criado um arquivo separado. Como por exemplo em um Banco de dados de uma indústria, executando 3 funções, sendo elas: Vendas, Produção e Compras,
+nessas funções cada dado de um produto está registrado, todos dependendo do dado de produtos. Caso essas funções forem separadas, haverá a criação de um sistema iso-
+lado, como explicado, anteriormente, haverá a redundância de dados a redundância de dados. Essa redundância é causada justamente por essa informação que está sendo
+repetida várias vezes.
+
+2) Sistema Integrado:
+
+	Diferentemente do Sistema Isolado, haverá o compartilhamento de dados, evitando essa constante redundância de dados. Nesse tipo de sistema, cada informação é
+armazenada uma única vez, sendo acessada pelos vários sistemas que dela necessitam. Como no exemplo anterior, "produtos" estaria compartilhando a informação apenas uma única
+vez para o restante dos sistemas Vendas, Produção e Compras.
