@@ -1,0 +1,6 @@
+Uma Entidade Associativa ocorre em relacionamentos n:n.
+Pede-se:
+a) Demonstre uma Entidade Associativa e descreva seus atributos
+	Um exemplo seria o caso de um Engenheiro, que no caso, pode se relacionar a diversos projetos em diferentes alocações. Caso
+seja necessário associar cada projeto, o plano do projeto, será preciso tornar o relacionamento Projeto ujma entidade-associativa.
+	Nesse panorama, o plano irá se relacionar com o Projeto que, por sua vez, será feito por um Engenheiro para uma entidade Engenheiro-Chefe.

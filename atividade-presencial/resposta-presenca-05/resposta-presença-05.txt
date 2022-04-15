@@ -1,0 +1,17 @@
+Quanto a cardinalidade que define um relacionamento, pede-se:
+
+a) Exemplifique e conceitue Cardinalidade Máxima e Cardinalidade Mínima
+
+Cardinalidade máxima: É quando se tem apenas uma ocorrência de uma entidade com outra entidade, ocorrendo no máximo 1 vez (1).
+Cardinalidade mínima: Não se tem uma determinação de ocorrência obrigatório, visto que contém apenas duas cardinalides mínimas:
+a cardinalidade mínima 0 e a cardinalidade mínima 1.
+
+b) Explique um exemplo de uma cardinalidade 1:1;
+	Entidade PESSOA relacionada com CASAMENTO, visto que só é possível ter apenas um Marido e uma Esposa.
+
+c) Explique um exemplo de uma cardinalidade 1:n;
+	Entidade PESSOA, por meio de um relacionamento EMPREGRADO, podendo estar associado a um único DEPARTAMENTO. Já a Entidade
+ DEPARTAMENTO, pode possuir n PESSOAS, visto que é possível ter várias pessoas em um departamento.
+
+d) Explique um exemplo de uma cardinalidade n:n.
+	A uma ocorrência de PRODUTOS, pode estar associado a n ocorrência de entidades CATEGORIAS.

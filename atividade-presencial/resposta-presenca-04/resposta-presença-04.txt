@@ -9,12 +9,16 @@ a) Entidade: Conjunto de objetos da realidade modelada sobre os quais deseja-se 
 
 b) Relacionamento: Conjunto de associações entre ocorrências de entidades.
 
-c) Atributo:
+c) Atributo: Dado que é associado a cada ocorrência de uma entidade ou de um relacionamento.
 
-d) Dominio de um Atributo:
+d) Dominio de um Atributo: Limita o valor. São os tipos de valores assumidos por um atributo. Datas, números inteiros e cade-
+ia de caracteres são domínios de atributos.
 
-e) Generalização/especialização:
+e) Generalização/especialização: É uma categorização da entidade com diferentes atributos. Uma entidade Cliente, por exemplo, pode ser Pessoa jurídica ou Pessoa física.
+ Cada categoria possui diferentes atributos extras, mas também herdam os atributos da entidade Pessoa e seus relacionamentos.
 
-f) Entidade Associativa:
+f) Entidade Associativa: Normalmente acontece quando duas entidades precisam se relacionar a uma 3° entidade, mas , infelizmente, não é possível.
+ Devido a isso, as entidades associativas devem informam tanto seus próprios atributos como os seus relacionamentos, e a partir disto, ela então é tratada tanto
+ como entidade e também como relacionamento.
 
-g) Cardinalidade de um Atributo:
+g) Cardinalidade de um Atributo: Indica quantas ocorrências de uma entidade podem estar associadas a uma determinada ocorrência través do relacionamento.

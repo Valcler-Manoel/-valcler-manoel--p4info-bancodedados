@@ -1,0 +1,22 @@
+Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+a) Tabela:
+
+b) Chave Primária: É uma coluna ou uma combinação de colunas cujos valores distinguem uma linha das demais dentro de uma tabela.
+
+c) Chave Estrangeira: É uma coluna ou uma combinação de colunas, cujos valores aparecem necessariamente na chave primária, sendo um
+mecanismo que permite a implementação de relacionamentos em um banco de dados relacional.
+
+d) Chave Alternativa: Acontecem, normalmente, em tabelas com duas colunas ou mais colunas, identificando um resgitro de forma única. Acompanhando a chave primária de um registro, tratando
+ ela como alternativa.
+
+e) Dominio da Coluna: Quando uma tabela do BC é definida, para cada coluna da tabela deve ser espeficado um conjunto de valores que os campos da respectiva coluna podem assumir. Esses valores,
+são chamados de domínio da coluna.
+
+f) Integridade de Dominio: Restringe o valor de um campo relativo à sua coluna. A coluna possui um domínio e o campo está restringido ao conjunto de valores definido.
+
+g) Integridade de Vazio: É especificado se os campos de uma coluna podem ou não ser vazios.
+
+h) Integridade de Chave: Restrição de um campo relativa à singularidade da chave primária.
+
+i) Integridade Referencial: Proibição de um campo relativo à sua referência como foreign key em uma tabela.
+

@@ -1,0 +1,3 @@
+Explique a seguinte afirmação: "Um Modelo deve refletir o seu aspecto temporal".
+	Diante dessa frase, ela acaba descrevendo um processo que é muito importante em um projeto de um Banco de Dados. Esse processo é quando ele é projetado desde o início, tendo principal função
+em manter os dados contidos nele, mesmo sofrendo algum tipo de mudança ou atualização é necessário manter os dados que, por mais que sejam dos mais antigos, serão importantes em estudos ou tomada de decisões.
