@@ -1,3 +1,23 @@
-Uma Entidade Associativa ocorre em relacionamentos n:n.
-Pede-se:
-a) Demonstre uma Entidade Associativa e descreva seus atributos.
+Defina uma Tabela e exemplifique o uso de comando SQL que executam operações CRUD. CREATE, READ, UPDATE, DELETE.
+
+CREATE:
+
+CREATE TABLE "TB_VENDEDOR" ( "ID_VEND" INTEGER NOT NULL, "COD_VEND" INTEGER NOT NULL UNIQUE, "NOME_VEND" TEXT NOT NULL, "DEP_VEND" TEXT, PRIMARY KEY("ID_VEND" AUTOINCREMENT) );
+
+INSERT INTO TB_VENDEDOR(NOME_VEND, DEP_VEND, COD_VEND) VALUES('Isaque Newton', Automóveis, 89);
+
+READ:
+
+SELECT ID_VEND, NOME_VEND FROM TB_VENDEDOR;
+
+UPDATE:
+
+UPDATE TB_VENDEDOR SET DEP_VEND='Produtos de Limpeza' WHERE COD_VEND=89;
+
+DELETE:
+
+DELETE FROM TB_VENDEDOR WHERE ID_VEND=8;
+
+
+
+
